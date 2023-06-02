@@ -8,3 +8,4 @@ int main() {
 	printf("Разность: %d\n", difference); 
 	return 0;
 }
+sdvsddscsdcc
